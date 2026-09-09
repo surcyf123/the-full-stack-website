@@ -31,8 +31,8 @@ hide:
       <h1> </h1>
       <h2><strong>{{ config.site_description }}</strong></h2>
       <p><br></p>
-      <a href="https://www.scale.bythebay.io/llm-workshop" class="md-button md-button--primary">
-        Sign up for our latest course!
+      <a href="working-with-ai-agents/multiplayer-ai-manifesto/" class="md-button md-button--primary">
+        Introducing the Multiplayer AI Manifesto
       </a>
     </div>
   </div>
@@ -54,10 +54,10 @@ hide:
   <div class="grid-2 items-center py-4 px-2 md-grid">
     <a href="llm-bootcamp"><img src="llm-bootcamp/opengraph.png"></a>
     <div class="mb-4">
-        <h2>Get up to speed on the latest in AI-powered apps with the new <a href="llm-bootcamp">Large Language Models Bootcamp</a>.</h2>
+        <h2>Explore the foundations of LLM-powered apps with our 2023 <a href="llm-bootcamp">Large Language Models Bootcamp</a>.</h2>
         <br>
         <p>
-          Learn best practices and tools for building applications powered by LLMs. </p> <p> Cover the full stack from <a href="llm-bootcamp/prompt-engineering">prompt engineering</a> and <a href="llm-bootcamp/llmops">LLMops</a> to <a href="llm-bootcamp/ux-for-luis">user experience design</a>.
+          Learn best practices and tools for building applications powered by LLMs. </p> <p> Cover the full stack from <a href="llm-bootcamp/spring-2023/prompt-engineering">prompt engineering</a> and <a href="llm-bootcamp/spring-2023/llmops">LLMops</a> to <a href="llm-bootcamp/spring-2023/ux-for-luis">user experience design</a>.
         </p>
     </div>
   </div>
@@ -66,7 +66,7 @@ hide:
 <div class="grid-2 items-center px-2 py-4 md-grid">
   <a href="course"><img src="images/positioning.png" class="swap-first" draggable="false"></a>
   <div class="swap-last">
-      <h2>Build an AI-powered application from the ground up in our <a href="course">Deep Learning Course</a>.</h2>
+      <h2>Build an AI-powered application from the ground up in our 2022 <a href="course">Deep Learning Course</a>.</h2>
       <p>
         You've trained your first (or 100th) model, and you're ready to take your skills to the next level.
       </p>

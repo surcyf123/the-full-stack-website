@@ -7,13 +7,15 @@ embed_image: https://staging.fullstackdeeplearning.com/llm-bootcamp/opengraph.pn
 
 # Full Stack LLM Bootcamp
 
+Free recordings and materials from our April 2023 bootcamp. Tools and model capabilities have evolved since these lectures were recorded.
+
 <div class="admonition abstract">
   <p class="admonition-title">🚀 Full Stack LLM Bootcamp 🚀</p>
   <div class="grid-2 items-center">
     <ul>
       <li>Learn <strong>best practices and tools</strong> for building LLM-powered apps</li>
       <li>Cover the full stack <strong>from prompt engineering to user-centered design</strong>
-      <li>Get <strong>up to speed on the state-of-the-art</strong></li>
+      <li>Learn the <strong>foundations of building with LLMs</strong></li>
     </ul>
     <div class="flex items-center justify-center">
       <img alt="Venn diagram showing that FSDL is at the intersection of a course, a hackathon, and a conference." src="/images/fsdl-2023-overview.png" width="480px">
@@ -51,7 +53,7 @@ Even ML veterans are scrambling to orient themselves to what is now possible and
 We put together a two-day program based on emerging **best practices** and the **latest research results** to help you make the transition to building LLM apps with confidence.
 
 We ran that program as an in-person bootcamp in San Francisco in April 2023.
-Now, we're releasing [the recorded lectures](spring-2023/), for free!
+[The recorded lectures](spring-2023/) are available for free.
 
 - ✨ [Learn to Spell: Prompt Engineering and Other Magic](spring-2023/prompt-engineering/)
 - 🏎️ [LLMOps: Deployment and Learning in Production](spring-2023/llmops/)

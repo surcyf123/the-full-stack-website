@@ -9,6 +9,9 @@ hide:
 By [Sergey Karayev](https://twitter.com/sergeykarayev) and [Charles Frye](https://twitter.com/charles_irl). Updated October 30, 2023.
 </div>
 
+!!! note "Historical pricing snapshot"
+    These tables were last updated in October 2023. Check providers directly for current pricing and availability.
+
 [Discussion of this page on Hacker News](https://news.ycombinator.com/item?id=36025099), May 21, 2023.
 
 Training and running neural networks often requires hardware acceleration,
