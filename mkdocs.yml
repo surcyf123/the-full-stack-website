@@ -6,10 +6,10 @@ site_name: The Full Stack
 site_url: https://fullstackdeeplearning.com
 site_description: News, community, and courses for people building AI-powered products.
 site_author: The Full Stack
-site_image: https://staging.fullstackdeeplearning.com/images/opengraph.png
+site_image: https://fullstackdeeplearning.com/images/opengraph.png
 site_image_alt: Image explaining what The Full Stack covers.
 
-copyright: The Full Stack, 2023
+copyright: The Full Stack, 2026
 
 theme:
   custom_dir: overrides
@@ -84,6 +84,9 @@ extra:
 
 nav:
   - Home: index.md
+  - "Working with AI Agents":
+      - working-with-ai-agents/index.md
+      - "Multiplayer AI Manifesto": working-with-ai-agents/multiplayer-ai-manifesto.md
   - "LLM Bootcamp":
       - llm-bootcamp/index.md
       - "Spring 2023":
